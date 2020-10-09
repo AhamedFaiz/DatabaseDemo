@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741550394183",
+    "firebase_url": "https://databasedemo-4e489.firebaseio.com",
+    "project_id": "databasedemo-4e489",
+    "storage_bucket": "databasedemo-4e489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741550394183:android:78116ee6e6140a14e6da62",
+        "android_client_info": {
+          "package_name": "com.example.databasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741550394183-6vmhfh7v83ka36sjnuiqiiso0g90i2pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8KO5C9QUtAzVGdtAsm6wgUvj9xUIvT2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741550394183-6vmhfh7v83ka36sjnuiqiiso0g90i2pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DatabaseDemo</string>
+    <string name="member_list">Member List</string>
+    <string name="next">Next</string>
+    <string name="state_question">For which state do you want to give the name for? *</string>
+    <string name="district_question">For which district do you want to give the name for? *</string>
+    <string name="post_question">Enter the post for which the name is given *</string>
+    <string name="state">State</string>
+    <string name="post_name"><![CDATA[Post & Name]]></string>
+    <string name="name">Name *</string>
+    <string name="mobile_number">Mobile Number *</string>
+    <string name="whatsapp_number">Whatsapp Number</string>
+    <string name="address">Address</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Click here to Register</string>
+    <string name="login">Login</string>
+    <string name="reg">Register</string>
+    <string name="names">Name</string>
+    <string name="number">Mobile Number</string>
+    <string name="back_to_login">Back To Login</string>
+    <string name="submission">Form Submitted SuccessFully</string>
+    <string name="thank_you">Thank You</string>
+    <string name="submit_another_response">Submit Another Response</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
